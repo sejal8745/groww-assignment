@@ -9,7 +9,7 @@ import logo from "../../public/logo.png";
 const Navbar = () => {
     return (
         <>
-             <div className="flex w-full overflow-x-auto py-4 bg-[#F9FAFB] dark:bg-[#374151]">
+             <div className="flex w-full justify-between items-center overflow-x-auto py-4 bg-[#F9FAFB] dark:bg-[#374151]">
 {/*             <div className="py-4 flex "> */}
                 <div className="container mx-auto flex flex-col sm:flex-row items-center justify-between px-2">
                     <div className="px-4 text-xl font-bold py-1">
