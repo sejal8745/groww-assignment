@@ -37,3 +37,4 @@ Welcome to the Checkout Experience project brought to you by GROWW! This assignm
 _Feel free to explore, contribute, and enhance the checkout experience!_
 
 ## SCREENSHOTS
+<img width="500" alt="x3" src="public/checkout.png">  <img width="500" alt="x3" src="public/order.png">  <img width="440" alt="x3" src="public/payment.jpeg">
