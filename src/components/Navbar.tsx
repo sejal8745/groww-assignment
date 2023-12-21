@@ -14,7 +14,7 @@ const Navbar = () => {
                     <div className="px-4 text-xl font-bold py-1">
 
                         <div className="flex items-center">
-                            <Link href="/">
+                            
                             <Image
                                 src={logo}
                                 alt="logo"
@@ -22,6 +22,7 @@ const Navbar = () => {
                                 height={40}
                                 className="cursor-pointer pr-2"
                             />
+                            <Link href="/">
                             <div className="text-2xl font-bold text-green">GROWW</div>
                                 </Link>
                         </div>
